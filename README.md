@@ -16,6 +16,18 @@ The dashboard provides insights through **interactive Power BI visuals** and **P
 - Document insights for decision-making  
 ---
 
+## 📁 Project Structure
+```
+Students_Performance_Analytics/
+│
+├── dashboard.pbix
+├── Students_Performance_Dashboard.pdf
+├── studentperformance.csv
+├── Student_Performance_Analytics
+└── README.md
+```
+
+---
 ## 🧪 Tools Used
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Power BI Desktop**: Visuals, DAX, Formatting  
